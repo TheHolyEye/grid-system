@@ -82,47 +82,77 @@ li , ol , ul {
 
 /* color */
 .red-color {
-    color: red;
+    color: #eb3b5a;
 }
 .green-color {
-    color: green;
+    color: #26de83;
+}
+.background-green-l-color {
+    color: #18dbba;
 }
 .blue-color {
-    color: blue;
+    color: #54a0ff;
+}
+.blue-d-color {
+    color: #2b2e9a;
 }
 .yellow-color {
-    color: yellow;
+    color: #feca57;
+}
+.pink-color {
+    color: #f78fb3;
+}
+.purple-color {
+    color: #5f27cd;
+}
+.gray-color {
+    color: #c8d6e5;
+}
+.gray-d-color {
+    color: #576574;
 }
 .white-color {
     color: white;
 }
 .black-color {
-    color: black;
-}
-.gray-color {
-    color: gray;
+    color: #222f3e;
 }
 
-.backgeround-red-color {
-    background-color: red;
+.background-red-color {
+    color: #eb3b5a;
 }
-.backgeround-green-color {
-    background-color: green;
+.background-green-color {
+    color: #26de83;
 }
-.backgeround-blue-color {
-    background-color: blue;
+.background-green-l-color {
+    color: #18dbba;
 }
-.backgeround-yellow-color {
-    background-color: yellow;
+.background-blue-color {
+    color: #54a0ff;
 }
-.backgeround-white-color {
-    background-color: white;
+.background-blue-d-color {
+    color: #2b2e9a;
 }
-.backgeround-black-color {
-    background-color: black;
+.background-yellow-color {
+    color: #feca57;
 }
-.backgeround-gray-color {
-    background-color: gray;
+.background-pink-color {
+    color: #f78fb3;
+}
+.background-purple-color {
+    color: #5f27cd;
+}
+.background-gray-color {
+    color: #c8d6e5;
+}
+.background-gray-d-color {
+    color: #576574;
+}
+.background-white-color {
+    color: white;
+}
+.background-black-color {
+    color: #222f3e;
 }
 
 /* grid */
